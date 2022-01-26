@@ -3,7 +3,7 @@
 	<a href="https://github.com/samlatavares/technical-documentation/blob/master/README.md">English</a> | <span>Português</span>
 </p>
 
-<img id="image" src="images/main-page.jpg" alt="Imagem da tela do sistema."></img>
+<img id="image" src="https://github.com/samlatavares/tribute-page/blob/master/images/main-page.jpg" alt="Imagem da tela do sistema."></img>
 
 ## O que é esse projeto?
 É uma página da documentação técnica do Flexbox desenvolvida para a certificação de Web Design Responsivo do FreeCodeCamp.
